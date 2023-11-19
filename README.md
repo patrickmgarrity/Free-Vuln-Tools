@@ -1,10 +1,12 @@
 # Free-Vuln-Research-Tools
 | Tool | Description | Website |
 | ----------- | ----------- | ----------- |
+|Coalition Exploit Scoring System | | https://github.com/FIRSTdotorg/epss-vendors |
 | !CVE || https://notcve.org/about.html |
 | CVSS | | https://www.first.org/cvss/ |
 | Cybersecurity and Infrastructure Security Agency's Known Exploited Vulnerabilities (CISA KEV) | | https://www.cisa.gov/known-exploited-vulnerabilities-catalog |
 | EPSS | | https://www.first.org/epss/ |
+|HackerOne CVE DIscovery|| https://hackerone.com/hacktivity/cve_discovery |
 | Github Security Advisories | | |
 | Malpedia | | https://malpedia.caad.fkie.fraunhofer.de/ |
 | MetaSploit | | |
