@@ -1,6 +1,6 @@
 # Free-Vuln-Research-Tools
 | Tool | Website |
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- |
 | Coalition Exploit Scoring System | https://github.com/FIRSTdotorg/epss-vendors |
 | !CVE | https://notcve.org/about.html |
 | CVSS | https://www.first.org/cvss/ |
