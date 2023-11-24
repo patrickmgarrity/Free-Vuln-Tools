@@ -14,6 +14,7 @@
 | HackerOne CVE DIscovery | https://hackerone.com/hacktivity/cve_discovery |
 | Github Security Advisories | https://github.com/advisories |
 | GreyNoise | https://observablehq.com/@greynoise/greynoise-tags |
+| ICS Advisory Project | https://www.icsadvisoryproject.com/home |
 | KEV-EPSS - Jerry Gamblin | https://github.com/jgamblin/KEV_EPSS |
 | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | MetaSploit | https://github.com/rapid7/metasploit-framework |
