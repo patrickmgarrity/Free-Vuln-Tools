@@ -18,6 +18,7 @@
 | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | MetaSploit | https://github.com/rapid7/metasploit-framework |
 | MISP | https://www.misp-project.org/ |
+| MSRC (Microsoft Security Response Center) | https://msrc.microsoft.com/update-guide/vulnerability |
 | Nuclei | https://github.com/projectdiscovery/nuclei |
 | NVD | https://nvd.nist.gov/ |
 | Project Zero | https://googleprojectzero.blogspot.com/p/0day.html |
