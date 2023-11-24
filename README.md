@@ -10,6 +10,7 @@
 | CVSS | https://www.first.org/cvss/ |
 | Cybersecurity and Infrastructure Security Agency's Known Exploited Vulnerabilities (CISA KEV) | https://www.cisa.gov/known-exploited-vulnerabilities-catalog |
 | EPSS | https://www.first.org/epss/ |
+| ExploitDB | https://www.exploit-db.com/ |
 | HackerOne CVE DIscovery | https://hackerone.com/hacktivity/cve_discovery |
 | Github Security Advisories | https://github.com/advisories |
 | GreyNoise | https://observablehq.com/@greynoise/greynoise-tags |
