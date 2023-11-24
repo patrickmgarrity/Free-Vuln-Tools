@@ -16,6 +16,7 @@
 | GreyNoise | https://observablehq.com/@greynoise/greynoise-tags |
 | ICS Advisory Project | https://www.icsadvisoryproject.com/home |
 | KEV-EPSS - Jerry Gamblin | https://github.com/jgamblin/KEV_EPSS |
+| Legion | https://gitlab.com/kalilinux/packages/legion |
 | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | MetaSploit | https://github.com/rapid7/metasploit-framework |
 | MISP | https://www.misp-project.org/ |
