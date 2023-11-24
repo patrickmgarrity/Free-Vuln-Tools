@@ -1,7 +1,7 @@
 # Free-Vuln-Research-Tools
 | Tool | Website |
 | ----------- | ----------- |
-| 0-day | https://www.zero-day.cz/database/?set_filter=Y&arrFilter_pf%5BYEAR_FROM%5D=2023&arrFilter_pf%5BYEAR_TO%5D=2023&arrFilter_pf%5BSEARCH%5D=#item_84 |
+| 0-day | https://www.zero-day.cz/database/ |
 | Coalition Exploit Scoring System | https://github.com/FIRSTdotorg/epss-vendors |
 | !CVE | https://notcve.org/about.html |
 | CVSS | https://www.first.org/cvss/ |
