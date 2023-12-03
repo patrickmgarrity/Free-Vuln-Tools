@@ -2,6 +2,7 @@
 | Tool | Website |
 | ----------- | ----------- |
 | National Vulnerability Database | https://nvd.nist.gov/ |
+| OSV | https://osv.dev/ |
 
 # Free-Vuln-Scoring-Prioritization
 | Tool | Website |
