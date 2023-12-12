@@ -43,6 +43,7 @@
 | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | MISP | https://www.misp-project.org/ |
 | MSRC (Microsoft Security Response Center) | https://msrc.microsoft.com/update-guide/vulnerability |
+| Paloalto IOCs | https://github.com/pan-unit42/iocs |
 | POC-in-Github | https://github.com/nomi-sec/PoC-in-GitHub |
 | Project Zero | https://googleprojectzero.blogspot.com/p/0day.html |
 | Shadow Server | https://dashboard.shadowserver.org/statistics/honeypot/monitoring/vulnerability/?category=monitoring&statistic=unique_ips&limit=100 |
