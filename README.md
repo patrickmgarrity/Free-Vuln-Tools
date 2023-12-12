@@ -39,6 +39,7 @@
 | HackerOne CVE DIscovery | https://hackerone.com/hacktivity/cve_discovery |
 | Github Security Advisories | https://github.com/advisories |
 | GreyNoise | https://observablehq.com/@greynoise/greynoise-tags |
+|IBM X-force Exchange | https://exchange.xforce.ibmcloud.com/search/cve |
 | ICS Advisory Project | https://www.icsadvisoryproject.com/home |
 | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | MISP | https://www.misp-project.org/ |
