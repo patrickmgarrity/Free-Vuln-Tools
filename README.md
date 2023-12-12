@@ -1,6 +1,7 @@
 # Free-Vuln-Database
 | Tool | Website |
 | ----------- | ----------- |
+| CVE | https://www.cve.org/ |
 | CVE Details | https://www.cvedetails.com/ |
 | National Vulnerability Database | https://nvd.nist.gov/ |
 | OSV | https://osv.dev/ |
