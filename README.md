@@ -33,7 +33,7 @@
 | 0-day | https://www.zero-day.cz/database/ |
 | Alienvault OTX | https://otx.alienvault.com/ |
 | Cisco Talos Intelligence | https://www.talosintelligence.com/vulnerability_info |
-| Cybersecurity and Infrastructure Security Agency's Known Exploited Vulnerabilities (CISA KEV) | https://www.cisa.gov/known-exploited-vulnerabilities-catalog |
+| CISA KEV | https://www.cisa.gov/known-exploited-vulnerabilities-catalog |
 | CVE POC | https://github.com/trickest/cve |
 | CVSS-BT | https://github.com/t0sche/cvss-bt/tree/main |
 | ExploitDB | https://www.exploit-db.com/ |
