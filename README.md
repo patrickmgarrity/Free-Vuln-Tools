@@ -1,4 +1,4 @@
-# Free-Vuln-Database
+# Vuln-Database
 | Tool | Website |
 | ----------- | ----------- |
 | CVE | https://www.cve.org/ |
@@ -6,7 +6,7 @@
 | National Vulnerability Database | https://nvd.nist.gov/ |
 | OSV | https://osv.dev/ |
 
-# Free-Vuln-Scoring-Prioritization
+# Vuln-Scoring-Prioritization
 | Tool | Website |
 | ----------- | ----------- |
 | Coalition Exploit Scoring System | https://github.com/FIRSTdotorg/epss-vendors |
@@ -18,7 +18,7 @@
 | SSVC | https://github.com/CERTCC/SSVC |
 
 
-# Free-Vuln-Exploit-Tools
+# Vuln-Exploit-Tools
 | Tool | Website |
 | ----------- | ----------- |
 | Legion | https://gitlab.com/kalilinux/packages/legion |
@@ -27,7 +27,7 @@
 | Nuclei | https://github.com/projectdiscovery/nuclei |
 
 
-# Free-Vuln-Threat-Intel
+# Vuln-Threat-Intel
 | Tool | Website |
 | ----------- | ----------- |
 | 0-day | https://www.zero-day.cz/database/ |
@@ -40,7 +40,7 @@
 | HackerOne CVE DIscovery | https://hackerone.com/hacktivity/cve_discovery |
 | Github Security Advisories | https://github.com/advisories |
 | GreyNoise | https://observablehq.com/@greynoise/greynoise-tags |
-|IBM X-force Exchange | https://exchange.xforce.ibmcloud.com/search/cve |
+| IBM X-force Exchange | https://exchange.xforce.ibmcloud.com/search/cve |
 | ICS Advisory Project | https://www.icsadvisoryproject.com/home |
 | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | MISP | https://www.misp-project.org/ |
