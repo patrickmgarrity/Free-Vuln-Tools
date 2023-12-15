@@ -44,6 +44,7 @@
 | ICS Advisory Project | https://www.icsadvisoryproject.com/home |
 | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 | MISP | https://www.misp-project.org/ |
+| Mitre Threat Groups | https://attack.mitre.org/groups/ |
 | MSRC (Microsoft Security Response Center) | https://msrc.microsoft.com/update-guide/vulnerability |
 | Paloalto IOCs | https://github.com/pan-unit42/iocs |
 | POC-in-Github | https://github.com/nomi-sec/PoC-in-GitHub |
