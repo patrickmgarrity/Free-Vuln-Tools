@@ -17,7 +17,6 @@
 | Risk-Based Prioritization of Vulnerabilities - Chris Madden | https://github.com/theparanoids/PrioritizedRiskRemediation |
 | SSVC | https://github.com/CERTCC/SSVC |
 
-
 # Vuln-Exploit-Tools
 | Tool | Website |
 | ----------- | ----------- |
@@ -25,7 +24,7 @@
 | MetaSploit | https://github.com/rapid7/metasploit-framework |
 | Nikto | https://github.com/sullo/nikto/wiki |
 | Nuclei | https://github.com/projectdiscovery/nuclei |
-
+| Linux Exploit Suggester | https://github.com/The-Z-Labs/linux-exploit-suggester/blob/master/linux-exploit-suggester.sh |
 
 # Vuln-Threat-Intel
 | Tool | Website |
