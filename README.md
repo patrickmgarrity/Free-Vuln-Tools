@@ -1,6 +1,7 @@
 # Vuln-Database
 | Tool | Website |
 | ----------- | ----------- |
+| CloudVulnDB | https://github.com/wiz-sec/open-cvdb/tree/main/vulnerabilities |
 | CVE | https://www.cve.org/ |
 | CVE Details | https://www.cvedetails.com/ |
 | National Vulnerability Database | https://nvd.nist.gov/ |
