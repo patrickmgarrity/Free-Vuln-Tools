@@ -26,6 +26,7 @@
 | Nikto | https://github.com/sullo/nikto/wiki |
 | Nuclei | https://github.com/projectdiscovery/nuclei |
 | Linux Exploit Suggester | https://github.com/The-Z-Labs/linux-exploit-suggester/blob/master/linux-exploit-suggester.sh |
+| Ostorlab KEV | https://github.com/Ostorlab/KEV/ |
 
 # Vuln-Threat-Intel
 | Tool | Website |
